@@ -1,0 +1,6 @@
+1,bmw,i320,black,2020,aricond,650.0,1500.0,Available
+2,rangerover,velar,white\,2023,aircond,660.0,1700.0,Rented
+3,bugatti,chiron,red,2023,selfdrive,888.0,2000.0,Available
+4,honda,civic,blue,2019,bluetooth,755.0,1000.0,Rented
+5,toyota,crolla,white,2020,aircond,300.0,700.0,Available
+6,mercedes,gclass,black,2020,sensor,700.0,1200.0,Available
